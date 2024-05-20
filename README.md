@@ -10,7 +10,7 @@
 
 #
 
-### 🛠️ Tools & Languages
+**`🛠️ Tools & Languages`**
 
 <img align="left" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/metasploit.png" alt="metasploit"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/>
