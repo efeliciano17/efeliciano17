@@ -2,7 +2,7 @@
 
 **`Welcome to my GitHub Bio!`**
 
-🌐 Hello, World! I'm Emy, a dedicated cybersecurity enthusiast. 
+🌐 Hello, World! I'm Emyrca, a dedicated cybersecurity enthusiast. 
 
 🔐 I focus on identifying vulnerabilities, developing innovative solutions to complex challenges, and leveraging my understanding of security protocols to anticipate potential threats and implement proactive measures.
 
