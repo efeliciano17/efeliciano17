@@ -8,7 +8,7 @@
 
 💻 My GitHub repository is a showcase that reflects my skills, experiences, and learnings in the field of cybersecurity.
 
-#
+---
 
 **`🛠️ Tools & Languages`**
 
@@ -25,3 +25,10 @@
 <img align="left" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/>
 <br />
+
+#
+**`📑 Medium Blog's`**
+
+🔖Check out My Most Recent Blog Post!
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@efeliciano17/0" alt="Recent Article 0"> 
