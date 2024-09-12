@@ -4,7 +4,7 @@
 
 👋 Hello, World! I'm Emyrca, a dedicated cybersecurity enthusiast. 
 
-📖 I focus on identifying vulnerabilities, developing innovative solutions to complex challenges, and leveraging my understanding of security protocols to anticipate potential threats and implement proactive measures.
+📖 My projects involves on identifying vulnerabilities, developing innovative solutions to complex challenges, and leveraging my understanding of security protocols to anticipate potential threats and implement proactive measures.
 
 💻 My GitHub repository is a showcase that reflects my skills, experiences, and learnings in the field of cybersecurity.
 
