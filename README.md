@@ -2,7 +2,7 @@
 
 **`🌐 Welcome to my GitHub Bio!`**
 
-👋 Hello, World! I'm Emyrca, a dedicated cybersecurity enthusiast. 
+👋 Hello, World! I'm Emyrca, a dedicated cybersecurity enthusiast and a passionate, detail-oriented professional. I bring strengths in problem-solving, time management, and clear communication to the cybersecurity field. I am committed to protecting organizations and individuals from evolving cyber threats while continuously expanding my technical skills and knowledge. Guided by the values of integrity, continuous learning, and a proactive security mindset, I strive to identify vulnerabilities, strengthen security measures, and promote a strong culture of cybersecurity awareness. I am excited to apply my growing expertise to help organizations safeguard critical assets and build resilient digital environments.
 
 📖 My projects involves on identifying vulnerabilities, developing innovative solutions to complex challenges, and leveraging my understanding of security protocols to anticipate potential threats and implement proactive measures.
 
